@@ -1,7 +1,21 @@
-# ai-manga-translator-
+# ai-manga-translator
 The ultimate AI-powered manga localization tool. Precision OCR, contextual translation, and seamless typesetting for indie creators. Built with Next.js 14.
-# 🎌 AI Manga Translator 
+# [AI Manga Translator](https://ai-manga-translator.com/)
+Core Utilities & Tools
+* **[Online Manga OCR](https://ai-manga-translator.com/blog/manga-ocr-guide)** — Precision text detection and extraction for complex manga layouts.
+* **[Manga Translation Engine](https://ai-manga-translator.com/tools/manga-translate)** — Seamlessly translate scans into 20+ languages.
+* **[Japanese to English Manga Translator](https://ai-manga-translator.com/tools/translate-manga-to-english)** — Specialized model for high-fidelity English localization.
+* **[Comic & Manhwa Translator](https://ai-manga-translator.com/tools/comic-translator)** — Optimized for vertical Webtoon and Manhwa formats.
 
+### 🌍 Global Support (Multilingual Guides)
+* 🇰🇷 **[일본 만화 번역기](https://ai-manga-translator.com/ko/tools/manga-translate)** — 한국어 서비스 및 만화 번역 가이드.
+* 🇯🇵 **[マンガ 翻訳 AI](https://ai-manga-translator.com/ja/blog/manga-ocr-guide)** — 日本語のマンガOCRおよび翻訳リソース.
+* 🇨🇳 **[AI 漫画翻译器](https://ai-manga-translator.com/zh/blog/best-manga-translator-2026)** — 最佳 AI 漫画翻译工具推荐 2026.
+
+### 📖 [Manga Localization Blog & Resources](https://ai-manga-translator.com/blog)
+* **[How to Translate Manga Guide](https://ai-manga-translator.com/blog/how-to-translate-manga)** — A deep dive into the AI localization pipeline.
+* **[Manga Translator Extension](https://ai-manga-translator.com/blog/manga-translator-extension-guide)** — Enhance your browser's reading experience.
+* **[Best Manga Translation Tools (2026)](https://ai-manga-translator.com/blog/best-manga-translator-2026)** — Market analysis and performance comparisons.
 > **Break the language barrier. Empower indie manga creators worldwide.**
 
 [![Tech Stack](https://img.shields.io/badge/Stack-Next.js_14-black)](https://ai-manga-translator.com)
